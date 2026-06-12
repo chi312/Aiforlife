@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and large binaries
+*.keras
+*.h5
+*.mp3
+
+# Dataset folders (large files)
+Datafruit/
+data-benh/
+dataai/
+dataai_no_bg/
+data_test/
+data_ls/
+disease_ot_chuong/

@@ -1,0 +1,52 @@
+{
+    "0": {
+        "stage": "Giai đoạn gieo hạt và nảy mầm (0-3 tuần)",
+        "bio_objective": "Hạt nảy mầm và hình thành rễ non.",
+        "temperature": "Tối thiểu:21°C,Tối ưu: 23-26°C,Tối đa:30°C",
+        "humidity": "Tối thiểu: 40%,Tối ưu: 50-70%, Tối đa: 92%",
+        "ph": "6.0 – 6.5",
+        "dad": "Tối ưu: 60-70%",
+        "ndd": "25 – 30",
+        "ec": "1.5 – 1.5"
+    },
+    "1": {
+        "stage": "Giai đoạn phát triển sớm (4-6 tuần)",
+        "bio_objective": "Tăng trưởng rễ, lá và thân non.",
+        "temperature": "Tối thiểu:18°C,Tối ưu: 22-26°C,Tối đa:28°C",
+        "humidity": "Tối thiểu: 40%,Tối ưu: 50-70%, Tối đa: 92%",
+        "ph": "6.0 – 6.8",
+        "dad": "Tối ưu: 50-60%",
+        "ndd": "20 – 25",
+        "ec": "1.8 – 2.3"
+    },
+    "2": {
+        "stage": "Giai đoạn trưởng thành, ra hoa (6-10 tuần)",
+        "bio_objective": "Tăng trưởng tối đa về kích thước lá và thân.",
+        "temperature": "Tối thiểu:18°C,Tối ưu: 22-26°C,Tối đa:28°C",
+        "humidity": "Tối thiểu: 40%,Tối ưu: 50-70%, Tối đa: 92%",
+        "ph": "6.2 – 6.8",
+        "dad":"Tối ưu: 60-70%",
+        "ndd": "22 – 28",
+        "ec": "2.3 – 2.5"
+    },
+    "3": {
+        "stage": "Giai đoạn ra trái (10-14 tuần)",
+        "bio_objective": "Đậu quả và phát triển kích thước trái.",
+        "temperature": "Tối thiểu:19°C,Tối ưu: 20-26°C, Tối đa:28°C",
+        "humidity": "Tối thiểu: 40%,Tối ưu: 50-70%, Tối đa: 92%",
+        "ph": "6.2 – 6.8",
+        "dad": "Tối ưu: 70-80%",
+        "ndd": "20 – 25",
+        "ec": "2.3 – 2.5"
+    },
+    "4": {
+        "stage": "Giai đoạn chín quả (14 tuần trở đi)",
+        "bio_objective": "Hoàn thiện sự phát triển của quả.",
+        "temperature": "Tối thiểu:18°C,Tối ưu: 20-24°C, Tối đa:27°C",
+        "humidity": "Tối thiểu: 40%,Tối ưu: 50-70%, Tối đa: 80%",
+        "ph": "6.0 – 6.5",
+        "dad": "Tối ưu: 50-60%",
+        "ndd": "22 – 27",
+        "ec": "2.0 – 2.3"
+    }
+}
