@@ -1,0 +1,6 @@
+Stage: Giai đoạn chín quả (14 tuần trở đi)
+pH: 6.0 – 6.5
+Bio Objective: Hoàn thiện sự phát triển của quả.
+Temperature: Tối thiểu:18°C, Tối ưu: 20-24°C, Tối đa:27°C
+Humidity: Tối thiểu: 40%, Tối ưu: 50-70%, Tối đa: 80%
+Camera: camera3

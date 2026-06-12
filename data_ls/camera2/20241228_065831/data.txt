@@ -1,0 +1,6 @@
+Stage: Giai đoạn trưởng thành, ra hoa (6-10 tuần)
+pH: 6.2 – 6.8
+Bio Objective: Tăng trưởng tối đa về kích thước lá và thân.
+Temperature: Tối thiểu:18°C,Tối ưu: 22-26°C,Tối đa:28°C
+Humidity: Tối thiểu: 40%,Tối ưu: 50-70%, Tối đa: 92%
+Camera: camera2

@@ -1,0 +1,6 @@
+Stage: Giai đoạn ra trái (10-14 tuần)
+pH: 6.2 – 6.8
+Bio Objective: Đậu quả và phát triển kích thước trái.
+Temperature: Tối thiểu:19°C,Tối ưu: 20-26°C, Tối đa:28°C
+Humidity: Tối thiểu: 40%,Tối ưu: 50-70%, Tối đa: 92%
+Camera: camera2

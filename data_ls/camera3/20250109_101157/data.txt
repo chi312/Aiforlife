@@ -1,0 +1,6 @@
+Stage: Giai đoạn gieo hạt và nảy mầm (0-3 tuần)
+pH: 6.0 – 6.5
+Bio Objective: Hạt nảy mầm và hình thành rễ non.
+Temperature: Tối thiểu:21°C,Tối ưu: 23-26°C,Tối đa:30°C
+Humidity: Tối thiểu: 40%,Tối ưu: 50-70%, Tối đa: 92%
+Camera: camera3
